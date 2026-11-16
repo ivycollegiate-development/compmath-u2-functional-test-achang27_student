@@ -172,3 +172,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+weekday 11.71 (41 days) | weekend 4.78 (18 days)
+Weekdays Average 11.71 Phishing Reports vs Weekends 4.78
+touch analysis.md
+code analysis.md
